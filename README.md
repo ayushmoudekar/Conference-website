@@ -12,4 +12,4 @@ Developed Conference application with mentioned Speaker Venue & Schedule.
 
 Technologies used: HTML & CSS
 
-Project Link: http://127.0.0.1:5500/Style%20Conference.html
+
