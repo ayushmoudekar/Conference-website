@@ -1,6 +1,4 @@
-Project overview :-
-
-Tech Central Conference Website
+Project overview :- Tech Central Conference Website
 
 Developed Conference application with mentioned Speaker Venue & Schedule.
 
